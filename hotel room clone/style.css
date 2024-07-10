@@ -1,0 +1,36 @@
+/* Write your styles here */
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: #c78b36;
+}
+.des{
+    line-height: 25px;
+    text-align: center;
+    margin: auto;
+    width: 650px;
+}
+.img1{
+    display:inline-block;
+    margin-left: 30%;
+}
+.img2{
+    display:inline-block;
+}
+.img3{
+    display:inline-block;
+}
+h2{
+    text-align: center;
+}
+.price{
+    text-align: center;
+    color: #c78b36;
+}
+@media screen and (max-width: 1366px)
+{
+    .img1{
+        display:inline-block;
+        margin-left: 300px;
+    } 
+}
